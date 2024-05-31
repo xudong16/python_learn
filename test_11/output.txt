@@ -1,0 +1,3 @@
+HELLO, WORLD</CONTENT>
+i AM A TEXT FILE
+big text
